@@ -2,7 +2,7 @@ Throughout the last decade, the practical advancements and the theoretical under
 With this tutorial we aim to expose the participants to novel trends in DL for scenarios where quantification of uncertainty matters and we will discuss new and emerging trends in the Bayesian deep learning community.
 
 
-Long description of the tutorial
+Description of the tutorial
 ================================
 
 Decision making processes are ubiquitous in social sciences and engineering and a sound modeling of uncertainty is key to build reliable and trustworthy systems. 
