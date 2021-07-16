@@ -1,0 +1,234 @@
+\begin{thebibliography}{10}
+
+\bibitem{Abadi15}
+M.~Abadi, A.~Agarwal, P.~Barham, E.~Brevdo, Z.~Chen, C.~Citro, G.~S. Corrado,
+  A.~Davis, J.~Dean, M.~Devin, S.~Ghemawat, I.~Goodfellow, A.~Harp, G.~Irving,
+  M.~Isard, R.~Jozefowicz, Y.~Jia, L.~Kaiser, M.~Kudlur, J.~Levenberg,
+  D.~Man{\'{e}}, M.~Schuster, R.~Monga, S.~Moore, D.~Murray, C.~Olah,
+  J.~Shlens, B.~Steiner, I.~Sutskever, K.~Talwar, P.~Tucker, V.~Vanhoucke,
+  V.~Vasudevan, F.~Vi{\'{e}}gas, O.~Vinyals, P.~Warden, M.~Wattenberg,
+  M.~Wicke, Y.~Yu, and X.~Zheng.
+\newblock {TensorFlow: Large-Scale Machine Learning on Heterogeneous Systems},
+  2015.
+
+\bibitem{Acciarri2017}
+R.~Acciarri~et al.
+\newblock {Convolutional neural networks applied to neutrino events in a liquid
+  argon time projection chamber}.
+\newblock {\em Journal of Instrumentation}, 12(3), 2017.
+
+\bibitem{Aurisano2016}
+A.~Aurisano, A.~Radovic, D.~Rocco, A.~Himmel, M.~D. Messier, E.~Niner,
+  G.~Pawloski, F.~Psihas, A.~Sousa, and P.~Vahle.
+\newblock {A convolutional neural network neutrino event classifier}.
+\newblock {\em Journal of Instrumentation}, 11(9), 2016.
+
+\bibitem{Bellec2018}
+G.~Bellec, D.~Salaj, A.~Subramoney, R.~Legenstein, and W.~Maass.
+\newblock {Long short-term memory and learning-to-learn in networks of spiking
+  neurons}.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  787--797, 2018.
+
+\bibitem{Blundell2015}
+C.~Blundell, J.~Cornebise, K.~Kavukcuoglu, and D.~Wierstra.
+\newblock {Weight Uncertainty in Neural Networks}.
+\newblock may 2015.
+
+\bibitem{Dieleman2015}
+S.~Dieleman, K.~W. Willett, and J.~Dambre.
+\newblock {Rotation-invariant convolutional neural networks for galaxy
+  morphology prediction}.
+\newblock {\em Monthly Notices of the Royal Astronomical Society},
+  450(2):1441--1459, 2015.
+
+\bibitem{Fussell2019}
+L.~Fussell and B.~Moews.
+\newblock {Forging new worlds: High-resolution synthetic galaxies with chained
+  generative adversarial networks}.
+\newblock {\em Monthly Notices of the Royal Astronomical Society},
+  485(3):3215--3223, 2019.
+
+\bibitem{Graves2011}
+A.~Graves.
+\newblock {Practical Variational Inference for Neural Networks.}
+\newblock {\em Nips}, pages 1--9, 2011.
+
+\bibitem{Guo17}
+C.~Guo, G.~Pleiss, Y.~Sun, and K.~Q. Weinberger.
+\newblock {On Calibration of Modern Neural Networks}.
+\newblock In D.~Precup and Y.~W. Teh, editors, {\em Proceedings of the 34th
+  International Conference on Machine Learning}, volume~70 of {\em Proceedings
+  of Machine Learning Research}, pages 1321--1330, International Convention
+  Centre, Sydney, Australia, aug 2017. PMLR.
+
+\bibitem{Kim2020}
+Y.~Kim, C.~Yang, Y.~Kim, G.~X. Gu, and S.~Ryu.
+\newblock {Designing an Adhesive Pillar Shape with Deep Learning-Based
+  Optimization}.
+\newblock {\em ACS Applied Materials and Interfaces}, 12(21):24458--24465, may
+  2020.
+
+\bibitem{Kraska2018}
+T.~Kraska, A.~Beutel, E.~H. Chi, J.~Dean, and N.~Polyzotis.
+\newblock {The Case for Learned Index Structures}.
+\newblock In {\em Proceedings of the 2018 International Conference on
+  Management of Data}, SIGMOD '18, pages 489--504, New York, NY, USA, 2018.
+  Association for Computing Machinery.
+
+\bibitem{Kwon2020}
+J.~Kwon and L.~P. Carloni.
+\newblock {Transfer learning for design-space exploration with high-level
+  synthesis}.
+\newblock In {\em MLCAD 2020 - Proceedings of the 2020 ACM/IEEE Workshop on
+  Machine Learning for CAD}, 2020.
+
+\bibitem{Lanusse2019}
+F.~Lanusse, P.~Melchior, and F.~Moolekamp.
+\newblock {Hybrid physical-deep learning model for astronomical inverse
+  problems}.
+\newblock {\em arXiv}, 2019.
+
+\bibitem{Li2019}
+G.~Li, X.~Zhou, S.~Li, and B.~Gao.
+\newblock {QTune: A Query-Aware Database Tuning System with Deep Reinforcement
+  Learning}.
+\newblock {\em Proceedings of the VLDB Endowment}, 12(12):2118--2130, aug 2019.
+
+\bibitem{Liu2015}
+H.~Liu, M.~Xu, Z.~Yu, V.~Corvinelli, and C.~Zuzarte.
+\newblock {Cardinality Estimation Using Neural Networks}.
+\newblock In {\em Proceedings of the 25th Annual International Conference on
+  Computer Science and Software Engineering}, CASCON '15, pages 53--59, USA,
+  2015. IBM Corp.
+
+\bibitem{Liu2016}
+Q.~Liu and D.~Wang.
+\newblock {Stein Variational Gradient Descent: A General Purpose Bayesian
+  Inference Algorithm}.
+\newblock In D.~D. Lee, M.~Sugiyama, U.~V. Luxburg, I.~Guyon, and R.~Garnett,
+  editors, {\em Advances in Neural Information Processing Systems 29}, pages
+  2378--2386. Curran Associates, Inc., 2016.
+
+\bibitem{Lu2020}
+Y.~C. Lu, S.~S. {Kiran Pentapati}, L.~Zhu, K.~Samadi, and S.~K. Lim.
+\newblock {TP-GNN: A graph neural network framework for tier partitioning in
+  monolithic 3D ICs}.
+\newblock In {\em Proceedings - Design Automation Conference}, 2020.
+
+\bibitem{Marcus2018}
+R.~Marcus and O.~Papaemmanouil.
+\newblock {Plan-Structured Deep Neural Network Models for Query Performance
+  Prediction}.
+\newblock In {\em Proceedings of the VLDB Endowment}, volume~12, pages
+  1733--1746, 2019.
+
+\bibitem{Neal96}
+R.~M. Neal.
+\newblock {\em {Bayesian Learning for Neural Networks (Lecture Notes in
+  Statistics)}}.
+\newblock Springer, 1 edition, aug 1996.
+
+\bibitem{Neal10}
+R.~M. Neal.
+\newblock {MCMC using Hamiltonian dynamics}.
+\newblock in Handbook of Markov Chain Monte Carlo (eds S. Brooks, A. Gelman, G.
+  Jones, XL Meng). Chapman and Hall/CRC Press, 2010.
+
+\bibitem{Osawa2019}
+K.~Osawa, S.~Swaroop, M.~E.~E. Khan, A.~Jain, R.~Eschenhagen, R.~E. Turner, and
+  R.~Yokota.
+\newblock {Practical Deep Learning with Bayesian Principles}.
+\newblock In {\em Advances in Neural Information Processing Systems 32}, pages
+  4287--4299. Curran Associates, Inc., 2019.
+
+\bibitem{ovadia2019can}
+Y.~Ovadia, E.~Fertig, J.~Ren, Z.~Nado, D.~Sculley, S.~Nowozin, J.~Dillon,
+  B.~Lakshminarayanan, and J.~Snoek.
+\newblock {Can you trust your model's uncertainty? Evaluating predictive
+  uncertainty under dataset shift}.
+\newblock In {\em Advances in Neural Information Processing Systems},
+  volume~32, pages 13991--14002. Curran Associates, Inc., 2019.
+
+\bibitem{paszke2019pytorch}
+A.~Paszke, S.~Gross, F.~Massa, A.~Lerer, J.~Bradbury, G.~Chanan, T.~Killeen,
+  Z.~Lin, N.~Gimelshein, L.~Antiga, A.~Desmaison, A.~Kopf, E.~Yang, Z.~DeVito,
+  M.~Raison, A.~Tejani, S.~Chilamkurthy, B.~Steiner, L.~Fang, J.~Bai, and
+  S.~Chintala.
+\newblock {PyTorch: An Imperative Style, High-Performance Deep Learning
+  Library}.
+\newblock In {\em Advances in Neural Information Processing Systems},
+  volume~32, pages 8026--8037. Curran Associates, Inc., 2019.
+
+\bibitem{Rezende2015}
+D.~Rezende and S.~Mohamed.
+\newblock {Variational Inference with Normalizing Flows}.
+\newblock In {\em Proceedings of the 32nd International Conference on Machine
+  Learning}, volume~37 of {\em Proceedings of Machine Learning Research}, pages
+  1530--1538, Lille, France, 2015. PMLR.
+
+\bibitem{Tran2020}
+B.~H. Tran, S.~Rossi, D.~Milios, and M.~Filippone.
+\newblock {All you need is a good functional prior for Bayesian deep learning},
+  2020.
+
+\bibitem{Wang2018}
+J.~X. Wang, Z.~Kurth-Nelson, D.~Kumaran, D.~Tirumala, H.~Soyer, J.~Z. Leibo,
+  D.~Hassabis, and M.~Botvinick.
+\newblock {Prefrontal cortex as a meta-reinforcement learning system}.
+\newblock {\em Nature Neuroscience}, 21(6):860--868, 2018.
+
+\bibitem{Wenzel2020}
+F.~Wenzel, K.~Roth, B.~S. Veeling, J.~{\'{S}}wi{\c{a}}tkowski, L.~Tran,
+  S.~Mandt, J.~Snoek, T.~Salimans, R.~Jenatton, and S.~Nowozin.
+\newblock {How good is the Bayes posterior in deep neural networks really?}
+\newblock In {\em arXiv}, 2020.
+
+\bibitem{wilson2020case}
+A.~G. Wilson.
+\newblock {The case for Bayesian deep learning}.
+\newblock {\em arXiv preprint arXiv:2001.10995}, 2020.
+
+\bibitem{Wilt2020}
+J.~K. Wilt, C.~Yang, and G.~X. Gu.
+\newblock {Accelerating Auxetic Metamaterial Design with Deep Learning}.
+\newblock {\em Advanced Engineering Materials}, 22(5):1901266, may 2020.
+
+\bibitem{Yamins2016}
+D.~L. Yamins and J.~J. DiCarlo.
+\newblock {Using goal-driven deep learning models to understand sensory
+  cortex}.
+\newblock In {\em Nature Neuroscience}, volume~19, pages 356--365, 2016.
+
+\bibitem{Zador2019}
+A.~M. Zador.
+\newblock {A critique of pure learning and what artificial neural networks can
+  learn from animal brains}.
+\newblock In {\em Nature Communications}, volume~10, 2019.
+
+\bibitem{Zhang2020a}
+F.~Zhang, B.~Shao, G.~Xu, B.~Yang, Z.~Yang, Z.~Qin, K.~Ren, and Z.~Yang.
+\newblock {From homogeneous to heterogeneous: Leveraging deep learning based
+  power analysis across devices}.
+\newblock In {\em Proceedings - Design Automation Conference}, 2020.
+
+\bibitem{Zhang2018}
+G.~Zhang, S.~Sun, D.~Duvenaud, and R.~Grosse.
+\newblock {Noisy Natural Gradient as Variational Inference}.
+\newblock In J.~Dy and A.~Krause, editors, {\em Proceedings of the 35th
+  International Conference on Machine Learning}, volume~80 of {\em Proceedings
+  of Machine Learning Research}, pages 5852--5861, Stockholmsm{\"{a}}ssan,
+  Stockholm Sweden, 2018. PMLR.
+
+\bibitem{Zhang2020}
+Z.~Zhang and G.~X. Gu.
+\newblock {Finite-Element-Based Deep-Learning Model for Deformation Behavior of
+  Digital Materials}.
+\newblock {\em Advanced Theory and Simulations}, 3(7):2000031, jul 2020.
+
+\bibitem{Zhang2020Phys}
+G.~X.~G. {Zhizhou Zhang}.
+\newblock {Physics-informed deep learning for digital materials}.
+\newblock {\em Theoretical {\&} Applied Mechanics Letters}, 11:1, 2021.
+
+\end{thebibliography}

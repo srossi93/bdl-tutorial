@@ -1,0 +1,5 @@
+ cat proposal-ijcai.bbl | sed  '1d;$d' | grep -v bibitem | tr  '~' ' ' | sed 's/[{}]//g'  | sed 's/\\newblock//g' | sed 's/\\em//g'
+
+
+
+
