@@ -152,8 +152,8 @@ approximate variational inference techniques and Monte-Carlo methods.
 
 
 
-**Maurizio Filippone** has been an Associate Professor at EURECOM since
-2015. Prior to that, he carried out some postdoctoral experience in
+**Maurizio Filippone** has been an Associate Professor at EURECOM since 2015. 
+Prior to that, he carried out some postdoctoral experience in
 probabilistic machine learning in the UK (Sheffield, Glasgow and UCL)
 and became Assistant Professor at the University of Glasgow, UK in 2011.
 Since 2011, he has been teaching classes in probabilistic machine
