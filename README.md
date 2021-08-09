@@ -168,6 +168,51 @@ environmental sciences.
 
 # References
 
+
+##	Introduction to Variational Inference methods
+
++		 Jordan et al. (1999). *An Introduction to Variational Methodsfor Graphical Models*. Mach. Learn.
++		 Hoffman et al. (2013). *Stochastic Variational Inference*. JMLR
++		 Ranganath et al. (2014). *Black Box Variational Inference*. AISTATS
++		 Blei et al. (2017). *Variational Inference: A Review for Statisticians*. JASA
+	
+## Monte-Carlo Dropout for Bayesian Neural Networks and follow-up
+
++		 Srivastava et al. (2014). *Dropout: A Simple Way to Prevent Neural Networks from Overfitting*, JMLR
++		 Kingma et al. (2015). *Variational Dropout and the Local Reparameterization Trick*. NeurIPS
++		 Gal (2016). *Uncertainty in Deep Learning*. University of Cambridge (PhD Thesis)
++		 Gal and Ghahramani (2016). *Bayesian Convolutional Neural Networks with Bernoulli Approximate Variational Inference*. ICLR Workshop
++		 Gal and Ghahramani (2016). *Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning*. ICML
++		 Kendall and Gal (2017). *What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?*. NeurIPS
++		 Li and Gal (2017). *Dropout Inference in Bayesian Neural Networks with Alpha-divergences*. ICML
++		 Hron et al. (2017). *Variational Gaussian Dropout is not Bayesian*. NeurIPS Workshop
++		 Hron et al (2018). *Variational Bayesian Dropout: Pitfalls and Fixes*. ICML
+
+## Variational Inference for Bayesian Neural Networks
+
++		 Graves (2011). *Practical Variational Inference for Neural Networks*. NeurIPS
++     Rezende et al. (2014). *Stochastic Backpropagation and Approximate Inference in Deep Generative Models*. ICML 
++		 Hernández-Lobato et al. (2015). *Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks*. ICML
++		 Blundell et al. (2015). *Weight Uncertainty in Neural Networks*. ICML
++     Rezende et al. (2015).*Variational Inference with Normalizing Flows*. ICML 
++		 Louizos and Welling (2016). *Structured and Efficient Variational Deep Learning with Matrix Gaussian Posteriors*. ICML
++     Kingma et al. (2016). *Improving Variational Inference with Inverse Autoregressive Flow*.  NeurIPS
++     Liu et al. (2016).    *Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm*.  NeurIPS 
++     Miller et al. (2016). *Variational Boosting: Iteratively Refining Posterior Approximations*.  ICML 
++		 Louizos and Welling (2017). *Multiplicative Normalizing Flows for Variational Bayesian Neural Networks*. ICML
++		 Sun et al. (2017). *Learning Structured Weight Uncertainty in Bayesian Neural Networks*. AISTATS
++		 Khan et al. (2018). *Fast and Scalable Bayesian Deep Learning by Weight-Perturbation in ADAM*. ICML
++		 Rossi et al. (2018). *Good Initializations of Variational Bayes for Deep Models*. ICML
++		 Zhang et al. (2018). *Noisy Natural Gradient as Variational Inference*. ICML
++		 Ghosh et al. (2018). *Structured Variational Learning of Bayesian Neural Networks with Horseshoe Priors*. ICML
++		 Osawa et al. (2019). *Practical Deep Learning with Bayesian Principles*. NeurIPS
++		 Sun et al. (2019). *Functional Variational Bayesian Neural Networks*. ICLR
++		 Farquhar et al. (2020). *Liberty or Depth: Deep Bayesian Neural Nets Do Not Need Complex Weight Posterior Approximations*. NeurIPS
++		 Rossi et al. (2020). *Walsh-Hadamard Variational Inference for Bayesian Deep Learning*. NeurIPS
++     Daxberger et al. (2021). *Bayesian Deep Learning via Subnetwork Inference*. ICML
+
+## Sampling of Bayesian neural network posterior
+
 +     MacKay (1992). *A Practical Bayesian Framework for Backpropagation Networks*. Neural computation.
 +     Neal (1996). *Bayesian Learning for Neural Networks*. Springer
 +     Neal (2011). *MCMC using Hamiltonian Dynamics*. Hand-book of Markov Chain Monte Carlo
