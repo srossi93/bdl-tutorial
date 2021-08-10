@@ -227,3 +227,50 @@ environmental sciences.
 +     Cobb et al. (2021). *Scaling Hamiltonian Monte Carlo Inference for Bayesian Neural Networks with Symmetric Splitting*. UAI
 +     Franzese et al. (2021). *A Unified View of Stochastic Hamiltonian Sampling*. arXiv
 +     Izmailov et al. (2021). *What Are Bayesian Neural Network Posteriors Really Like?* ICML
+
+
+
+## Laplace approximation
+
++		 MacKay (1991). *Bayesian Model Comparison and Backprop Nets*. NeurIPS
++		 MacKay (1991). *A Practical Bayesian Framework for Backpropagation Networks*. Neural comput.
++		 Williams and Barber (1998). *Bayesian classification with Gaussian processes*. IEEE PAMI
++		 MacKay (1998). *Choice of Basis for Laplace Approximation*. Machine Learning
++		 Schraudolph (2002). *Fast curvature matrix-vector products for second-order gradient descent*. Neural Comput.
++		 Kuss and Rasmussen (2005). *Assessing Approximate Inference for Binary Gaussian Process Classification*. JMLR
++		 Nickisch and Rasmussen (2008). *Approximations for Binary Gaussian Process Classification*. JMLR
++		 Martens et al. (2015). *Optimizing Neural Networks with Kronecker-factored Approximate Curvature*. ICML
++		 Botev et al. (2017). *Practical Gauss-Newton Optimisation for Deep Learning*. ICML
++		 Ritter et al. (2018). *A Scalable Laplace Approximation for Neural Networks*. ICLR
++		 Kunstner et al. (2019). *Limitations of the Empirical Fisher Approximation for Natural Gradient Descent*. NeurIPS
++		 Dangel et al. (2020). *BackPACK: Packing more into Backprop*. ICLR
++		 Immer et al. (2021). *Improving predictions of Bayesian neural nets via local linearization*. AISTATS
++		 Immer et al. (2021). *Scalable Marginal Likelihood Estimation for Model Selection in Deep Learning*. ICML
++		 Kristiadi et al. (2021). *Learnable Uncertainty under Laplace Approximations*. UAI
+
+
+## Ensemble methods
+
++		 Newton and Raftery (1994). *Approximate Bayesian Inference with the Weighted Likelihood Bootstrap*. JRSS - Series B
++		 Lakshminarayanan et al. (2017). *Simple and scalable predictive uncertainty estimation using deep ensembles*. NeurIPS
++		 Pearce et al. (2018). *Bayesian Inference with Anchored Ensembles of Neural Networks, and Application to Reinforcement Learning*. ICML Workshop
++		 Pearce et al. (2018). *Bayesian neural network ensembles*. NeurIPS Workshop
++		 Garipov et al. (2018). *Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs*. NeurIPS
++		 Fort et al. (2019). *Deep Ensembles: A Loss Landscape Perspective*. NeurIPS BDL Workshop
++		 Milios et al. (2020). *Parametric Bootstrap Ensembles as Variational Inference*. AABI
++		 He at al. (2020). *Bayesian Deep Ensembles via the Neural Tangent Kernel*. NeurIPS
+
+
+## Infinite-limit Neural Networks
+
++		 Rasmussen and Williams (2006). *Gaussian Processes for Machine Learning*, MIT Press
++		 Damianou and Lawrence (2013). *Deep Gaussian Processes*. AISTATS
++		 Cutajar et al. (2017). *Random Features Expansions for Deep Gaussian Processes*. ICML
++		 Jacot et al. (2018). *Neural Tangent Kernel: Convergence and Generalization in Neural Networks*. NeurIPS
++		 Matthews et al. (2018). *Gaussian Process Behaviour in Wide Deep Neural Networks*. ICLR
++		 Lee et al. (2018). *Deep Neural Networks as Gaussian Processes*. ICLR
++		 Novak et al. (2019). *Bayesian Deep Convolutional Networks with Many Channels are Gaussian Processes*. ICLR
++		 Garriga-Alonso et al. (2019). *Deep Convolutional Networks as shallow Gaussian Processes*. ICLR
++		 Yang (2019). *Wide Feedforward or Recurrent Neural Networks of Any Architecture are Gaussian Processes*. NeurIPS
++		 Khan et al. (2019). *Approximate Inference Turns Deep Networks into Gaussian Processes*. NeurIPS
++		 Lee et al. (2019). *Wide Neural Networks of Any Depth Evolve as Linear Models under Gradient Descent*. NeurIPS
