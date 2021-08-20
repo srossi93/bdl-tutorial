@@ -51,13 +51,13 @@ we will present some methodological results that allow us to do tractable Bayesi
     -   Formalization of the variational objective (and its
         gradients)
 
-    -   Parameterization of variational inference and recent advancements (including normalizing flows and particle-based variational inference)
+    -   Parameterization of variational inference and recent advancements 
 
 -   Sampling from intractable distributions with MCMC
 
     -   Introduction to Hamiltonian Monte Carlo (HMC)
 
-    -   Scaling HMC for Bayesian deep learning with stochastic gradients:
+    -   Scaling HMC for Bayesian deep learning with stochastic gradients
 
 -   Ensembles and other approximations 
 
@@ -76,20 +76,25 @@ Part 3. Practical considerations and conclusions
 ----------------------------------------------------------
 
 Finally, the last part will be dedicated to some practical
-considerations (e.g. how to choose priors). And this part will be
-concluded with a discussion on computational complexity of Bayesian
-inference, with a focus on heterogeneous computing.
+considerations (e.g. how to choose priors). 
 
 -   A problem for today is a solution for tomorrow: encoding
     prior knowledge for Bayesian DNN
 
--   An analysis of the computational divide: challenges and
-    opportunities of heterogeneous computing for Bayesian inference
-
--   Software and libraries for implementing Bayesian
-    inference for deep learning models
+-   Calibration of the uncertainty estimation for BNNs
 
 -   Final remarks and take-away message
+
+
+Material
+========
+
+  [Introduction](slides/part1_intro.pdf) --
+  [Variational Inference](slides/part2a_variational_inference.pdf) -- 
+  [Sampling with MCMC methods](slides/part2b_sampling_bnn.pdf) --
+  [Laplace approximation and Ensembles](slides/part2c_laplace_and_ensambles.pdf) --
+  [Priors and practical considerations](slides/part3a_practical_considerations.pdf) --
+  [Conclusions](slides/part3b_final_ack.pdf) 
 
 
 Potential target audience
