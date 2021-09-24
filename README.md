@@ -95,6 +95,8 @@ Material
   [Laplace approximation and Ensembles](slides/part2c_laplace_and_ensambles.pdf) --
   [Priors and practical considerations](slides/part3a_practical_considerations.pdf) --
   [Conclusions](slides/part3b_final_ack.pdf) 
+  
+  [Recordings](https://www.youtube.com/playlist?list=PLgvY-sXF1FemqcqaxxfMrOu6g06riQczc)
 
 
 Potential target audience
